@@ -149,7 +149,7 @@ deactivate
 ---
 
 ## 7️⃣ 运行结果
-![运行界面](images/run_example.PNG)
+![运行界面](images/run_example.png)
 
 
 ---
