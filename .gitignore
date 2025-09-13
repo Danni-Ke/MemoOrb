@@ -3,7 +3,7 @@
 .venv3.11/
 .env
 chroma_db/
-
+books/
 # Python 缓存
 __pycache__/
 *.pyc
